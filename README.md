@@ -13,6 +13,8 @@ Projeyi çalıştırmak için Terminale bu komutları yazın :
 - npm install 
 - node index
 
+![image alt](https://github.com/FurkanTelli/project-chart-backend/blob/b9beb8743d9c6542ee2ded405a1bacf705aafc0e/SequelizeIcinAuthenticationIc%C4%B1n.png)
+![image alt](https://github.com/FurkanTelli/project-chart-backend/blob/b9beb8743d9c6542ee2ded405a1bacf705aafc0e/sqlServerRestart.png)
 
 Information:
 -----------------
@@ -26,3 +28,6 @@ Information:
 To run the project, type these commands in Terminal:
 - npm install
 - node index
+
+![image alt](https://github.com/FurkanTelli/project-chart-backend/blob/b9beb8743d9c6542ee2ded405a1bacf705aafc0e/SequelizeIcinAuthenticationIc%C4%B1n.png)
+![image alt](https://github.com/FurkanTelli/project-chart-backend/blob/b9beb8743d9c6542ee2ded405a1bacf705aafc0e/sqlServerRestart.png)
